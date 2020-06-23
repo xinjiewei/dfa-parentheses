@@ -1,0 +1,26 @@
+# Packages #
+############
+pkg/*
+bin
+*.dmg
+*.swp
+
+# Logs and databases #
+######################
+logs
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/*
+.vscode
